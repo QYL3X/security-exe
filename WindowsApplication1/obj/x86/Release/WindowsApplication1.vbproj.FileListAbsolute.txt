@@ -1,0 +1,11 @@
+C:\Users\Anthony\3D Objects\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Anthony\3D Objects\WindowsApplication1\WindowsApplication1\bin\Release\security.exe
+C:\Users\Anthony\3D Objects\WindowsApplication1\WindowsApplication1\bin\Release\security.pdb
+C:\Users\Anthony\3D Objects\WindowsApplication1\WindowsApplication1\bin\Release\security.xml
+C:\Users\Anthony\3D Objects\WindowsApplication1\WindowsApplication1\obj\x86\Release\security.Form1.resources
+C:\Users\Anthony\3D Objects\WindowsApplication1\WindowsApplication1\obj\x86\Release\security.Form2.resources
+C:\Users\Anthony\3D Objects\WindowsApplication1\WindowsApplication1\obj\x86\Release\security.LoginForm1.resources
+C:\Users\Anthony\3D Objects\WindowsApplication1\WindowsApplication1\obj\x86\Release\security.Resources.resources
+C:\Users\Anthony\3D Objects\WindowsApplication1\WindowsApplication1\obj\x86\Release\security.exe
+C:\Users\Anthony\3D Objects\WindowsApplication1\WindowsApplication1\obj\x86\Release\security.xml
+C:\Users\Anthony\3D Objects\WindowsApplication1\WindowsApplication1\obj\x86\Release\security.pdb
